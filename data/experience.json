@@ -1,0 +1,43 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "position": "Desarrollador Frontend Senior",
+      "company": "TechCorp Solutions",
+      "startDate": "2022",
+      "endDate": "Presente",
+      "responsibilities": [
+        "Desarrollo de aplicaciones web con React y Next.js",
+        "Implementación de interfaces de usuario responsivas",
+        "Colaboración con equipos de diseño y backend",
+        "Optimización de rendimiento y SEO"
+      ]
+    },
+    {
+      "id": 2,
+      "position": "Desarrollador Full Stack",
+      "company": "StartupXYZ",
+      "startDate": "2021",
+      "endDate": "2022",
+      "responsibilities": [
+        "Desarrollo de API REST con Node.js y Express",
+        "Gestión de bases de datos MongoDB y PostgreSQL",
+        "Implementación de autenticación y autorización",
+        "Despliegue en AWS y configuración de CI/CD"
+      ]
+    },
+    {
+      "id": 3,
+      "position": "Desarrollador Junior",
+      "company": "WebAgency Pro",
+      "startDate": "2020",
+      "endDate": "2021",
+      "responsibilities": [
+        "Desarrollo de sitios web corporativos",
+        "Maquetación HTML/CSS responsive",
+        "Integración de CMS y formularios",
+        "Mantenimiento y actualización de sitios existentes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "education": [
+    {
+      "id": 1,
+      "title": "Ingeniería en Sistemas",
+      "institution": "Universidad Tecnológica",
+      "startDate": "2016",
+      "endDate": "2020",
+      "description": "Grado en Ingeniería de Sistemas con especialización en desarrollo de software."
+    },
+    {
+      "id": 2,
+      "title": "Certificación AWS",
+      "institution": "Amazon Web Services",
+      "startDate": "2023",
+      "endDate": "2023",
+      "description": "AWS Certified Developer - Associate"
+    },
+    {
+      "id": 3,
+      "title": "Curso React Avanzado",
+      "institution": "Platzi",
+      "startDate": "2022",
+      "endDate": "2022",
+      "description": "Curso especializado en React, hooks avanzados y patrones de diseño."
+    },
+    {
+      "id": 4,
+      "title": "Bootcamp Full Stack",
+      "institution": "Coding Academy",
+      "startDate": "2020",
+      "endDate": "2020",
+      "description": "Bootcamp intensivo de 6 meses en desarrollo web full stack."
+    }
+  ]
+}
