@@ -2,57 +2,74 @@
   "projects": [
     {
       "id": 1,
-      "title": "E-commerce Platform",
+      "title": "E-commerce React y Laravel",
       "description": "Plataforma de comercio electrónico completa con carrito de compras, pagos y panel de administración.",
-      "image": "/ecommerce-website-mockup.png",
-      "technologies": ["React", "Node.js", "MongoDB"],
+      "image": "/ecommerce_react_laravel.png",
+      "technologies": ["React", "Laravel", "Javascript", "PHP", "MySQL"],
       "githubUrl": "https://github.com",
       "liveUrl": "https://ejemplo.com"
     },
     {
       "id": 2,
-      "title": "Task Manager App",
-      "description": "Aplicación de gestión de tareas con funcionalidades de colaboración en tiempo real y notificaciones.",
-      "image": "/task-management-app.png",
-      "technologies": ["Next.js", "TypeScript", "PostgreSQL"],
+      "title": "E-commerce Java Spring",
+      "description": "Plataforma de comercio electrónico con lista de productos, generación de ordenes de compra y panel de administración",
+      "image": "/ecommerce_react_spring.png",
+      "technologies": ["Java", "MySQL"],
       "githubUrl": "https://github.com",
       "liveUrl": "https://ejemplo.com"
     },
     {
       "id": 3,
-      "title": "Weather Dashboard",
-      "description": "Dashboard del clima con pronósticos, mapas interactivos y alertas meteorológicas personalizadas.",
-      "image": "/weather-dashboard-app.png",
-      "technologies": ["Vue.js", "Express", "API REST"],
-      "githubUrl": "https://github.com",
-      "liveUrl": "https://ejemplo.com"
+      "title": "Youtube Downloader",
+      "description": "Aplicación de escritorio para descargar videos y música de Youtube",
+      "image": "/youtube_downloader.png",
+      "technologies": ["Python", "PyQt5"],
+      "githubUrl": "https://github.com"
     },
     {
       "id": 4,
-      "title": "Blog Platform",
-      "description": "Plataforma de blogging con editor de contenido, sistema de comentarios y optimización SEO.",
-      "image": "/blog-platform-interface.png",
-      "technologies": ["Gatsby", "GraphQL", "Netlify"],
-      "githubUrl": "https://github.com",
-      "liveUrl": "https://ejemplo.com"
+      "title": "E-commerce product page",
+      "description": "Página web de un producto con React y diseño con TailwindCSS",
+      "image": "/ecommerce_product_page.png",
+      "technologies": ["React", "Javascript", "TailwindCSS", "axios"],
+      "githubUrl": "https://github.com/rquispeq/e-commerce_product_page",
+      "liveUrl": "https://e-commerce-product-page-five-pi.vercel.app/"
     },
     {
       "id": 5,
-      "title": "Fitness Tracker",
+      "title": "Product list with cart",
       "description": "Aplicación móvil para seguimiento de ejercicios con estadísticas y planes de entrenamiento personalizados.",
-      "image": "/fitness-tracking-app.png",
-      "technologies": ["React Native", "Firebase", "Redux"],
-      "githubUrl": "https://github.com",
-      "liveUrl": "https://ejemplo.com"
+      "image": "/ecommerce_with_cart.png",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "githubUrl": "https://github.com/rquispeq/basics_pages/tree/main/product-list-with-cart",
+      "liveUrl": "https://product-list-with-cart-flame.vercel.app/"
     },
     {
       "id": 6,
-      "title": "Crypto Portfolio",
-      "description": "Tracker de portafolio de criptomonedas con gráficos en tiempo real y análisis de rendimiento.",
-      "image": "/placeholder-wn2oa.png",
-      "technologies": ["React", "Chart.js", "WebSocket"],
-      "githubUrl": "https://github.com",
+      "title": "10 Projects JS",
+      "description": "Colección de 10 mini proyectos de páginas web realizados con Javascript puro o React",
+      "image": "/10ProjectsJS.png",
+      "technologies": ["React", "Javascript"],
+      "githubUrl": "https://github.com/rquispeq/10projectsjs",
       "liveUrl": "https://ejemplo.com"
+    },
+    {
+      "id": 7,
+      "title": "Clon Instagram Desktop",
+      "description": "Página web de Instagram creado con HTML, JS y CSS en modo escritorio",
+      "image": "/clon_instagram.png",
+      "technologies": ["Javascript","HTML", "CSS"],
+      "githubUrl": "https://github.com/rquispeq/clon_instagram",
+      "liveUrl": "https://rquispeq.github.io/clon_instagram/"
+    },
+    {
+      "id": 8,
+      "title": "Clon Youtube Desktop",
+      "description": "Página web de Youtube creado con HTML, JS y CSS en modo escritorio",
+      "image": "/clon_youtube.png",
+      "technologies": ["Javascript","HTML", "CSS"],
+      "githubUrl": "https://github.com/rquispeq/clon_youtube",
+      "liveUrl": "https://rquispeq.github.io/clon_youtube/"
     }
   ]
 }

@@ -1,36 +1,54 @@
 {
   "education": [
     {
-      "id": 1,
-      "title": "Ingeniería en Sistemas",
-      "institution": "Universidad Tecnológica",
-      "startDate": "2016",
-      "endDate": "2020",
-      "description": "Grado en Ingeniería de Sistemas con especialización en desarrollo de software."
+      "id": 5,
+      "title": "Desarrollo Profesional de Temas y Plugins de WordPress",
+      "institution": "Udemy",
+      "startDate": "2024",
+      "description": "Curso de Wordpress, creación de temas, widgets, formularios, menús de navegación, post types, consultas de base de datos con WP_Query, campos personalizados"
+    },
+    {
+      "id": 5,
+      "title": "Introducción a la arquitectura de microservicios",
+      "institution": "EDteam",
+      "startDate": "2024",
+      "description": "Curso de introducción a microservicioes, arquitecturas monolíticas, reglas de microservicios, estrartegias de diseño, patrones de microservicios."
+    },
+    {
+      "id": 5,
+      "title": "Diseño UI",
+      "institution": "EDteam",
+      "startDate": "2024",
+      "description": "Curso sobre UI Design, fundamentos del diseño, wireframes, mockups, prototipos, leyes de gestalt, composición de color, tipografias y patrones de diseño."
     },
     {
       "id": 2,
-      "title": "Certificación AWS",
-      "institution": "Amazon Web Services",
+      "title": "Docker desde cero",
+      "institution": "EDteam",
       "startDate": "2023",
-      "endDate": "2023",
-      "description": "AWS Certified Developer - Associate"
+      "description": "Curso de Docker, contenedores, docker compose, servicios, volúmenes y variables de construcción."
     },
     {
       "id": 3,
-      "title": "Curso React Avanzado",
-      "institution": "Platzi",
-      "startDate": "2022",
-      "endDate": "2022",
+      "title": "React desde cero",
+      "institution": "EDteam",
+      "startDate": "2021",
       "description": "Curso especializado en React, hooks avanzados y patrones de diseño."
     },
     {
+      "id": 5,
+      "title": "Git y GitHub Completo",
+      "institution": "Udemy",
+      "startDate": "2017",
+      "description": "Curso de git y github, comandos git principales, forks, pull request, git flow, resolución de errores comunes en un equipo de trabajo usando git"
+    },
+    {
       "id": 4,
-      "title": "Bootcamp Full Stack",
-      "institution": "Coding Academy",
-      "startDate": "2020",
-      "endDate": "2020",
-      "description": "Bootcamp intensivo de 6 meses en desarrollo web full stack."
+      "title": "Ingeniería de Computación y Sistemas",
+      "institution": "Universidad de San Martín de Porres",
+      "startDate": "2012",
+      "endDate": "2021",
+      "description": "Bachiller en Ingeniería de Sistemas con mención en desarrollo de software."
     }
   ]
 }

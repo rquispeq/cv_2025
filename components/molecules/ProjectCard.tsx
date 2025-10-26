@@ -18,7 +18,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
           src={project.image || "/placeholder.svg"}
           alt={project.title}
           fill
-          className="object-cover group-hover:scale-105 transition-transform"
+          className="object-cover group-hover:scale-105 transition-transform h-auto m-auto w-full absolute"
         />
       </div>
       <CardHeader>
@@ -35,7 +35,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
                 <Github className="h-4 w-4" />
               </Link>
             </Button>
-            <Button
+            {project.liveUrl ? <Button
               variant="ghost"
               size="sm"
               asChild
@@ -44,7 +44,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
               <Link href={project.liveUrl} target="_blank">
                 <ExternalLink className="h-4 w-4" />
               </Link>
-            </Button>
+            </Button> : <></>}
           </div>
         </CardTitle>
         <CardDescription>{project.description}</CardDescription>

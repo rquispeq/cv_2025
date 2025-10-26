@@ -45,7 +45,7 @@ export function EducationSection() {
               <CardContent>
                 <div className="flex items-center text-muted-foreground mb-2">
                   <Calendar className="h-4 w-4 mr-2" />
-                  {edu.startDate} - {edu.endDate}
+                  {edu.startDate}{ edu.endDate ?  " - " + edu.endDate : ""}
                 </div>
                 <Text variant="muted">{edu.description}</Text>
               </CardContent>

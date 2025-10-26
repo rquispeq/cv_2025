@@ -60,7 +60,6 @@ export function ProfileSection() {
             </CardHeader>
             <CardContent className="space-y-3">
               <ContactInfo icon={Mail} text={personalInfo.email} />
-              <ContactInfo icon={Phone} text={personalInfo.phone} />
               <ContactInfo icon={MapPin} text={personalInfo.location} />
             </CardContent>
           </Card>

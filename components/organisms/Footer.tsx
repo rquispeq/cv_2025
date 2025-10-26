@@ -10,11 +10,11 @@ export function Footer() {
           ¿Interesado en trabajar juntos? ¡Contáctame!
         </Text>
         <div className="flex justify-center space-x-4">
-          <SocialLink href="mailto:juan.perez@ejemplo.com" icon={Mail} label="Enviar Email" variant="green" />
-          <SocialLink href="https://linkedin.com" icon={Linkedin} label="LinkedIn" variant="blue" />
+          <SocialLink href="mailto:ronymquispe@gmail.com" icon={Mail} label="Enviar Email" variant="green" />
+          <SocialLink href="https://www.linkedin.com/in/rony-martin-quispe-quispe/" icon={Linkedin} label="LinkedIn" variant="blue" />
         </div>
         <Text variant="muted" className="mt-6">
-          © 2024 Juan Pérez. Todos los derechos reservados.
+          © 2025 Rony Martín Quispe Q. Todos los derechos reservados.
         </Text>
       </div>
     </footer>

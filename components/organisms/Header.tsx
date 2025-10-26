@@ -59,7 +59,7 @@ export function Header({ activeSection, onNavigate }: HeaderProps) {
             </Button>
           )}
 
-          <SocialLink href="mailto:tu-email@ejemplo.com" icon={Mail} label="Contacto" variant="green" />
+          <SocialLink href="mailto:ronymquispe@gmail.com" icon={Mail} label="Contacto" variant="green" />
         </div>
       </div>
     </nav>

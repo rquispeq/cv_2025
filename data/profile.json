@@ -2,28 +2,25 @@
   "personalInfo": {
     "name": "Rony Quispe",
     "title": "Desarrollador Web Full Stack",
-    "photo": "/professional-developer-portrait.png",
+    "photo": "/professional-developer-portrait.jpg",
     "email": "ronymquispe@gmail.com",
-    "phone": "+34 123 456 789",
-    "location": "Madrid, España",
-    "description": "Desarrollador web apasionado con más de 3 años de experiencia en el desarrollo de aplicaciones web modernas. Especializado en React, Next.js y Node.js. Me encanta crear soluciones innovadoras y trabajar en equipo para entregar productos de alta calidad.",
+    "location": "Lima, Perú",
+    "description": "Desarrollador web con 6 años de experiencia en el desarrollo de aplicaciones web modernas. Especializado en Laravel, React y MySQL. Enfocado en crear soluciones innovadoras, eficientes y trabajar en equipo para entregar productos de alta calidad.",
     "socialLinks": {
-      "github": "https://github.com",
-      "linkedin": "https://linkedin.com"
+      "github": "https://github.com/rquispeq",
+      "linkedin": "https://www.linkedin.com/in/rony-martin-quispe-quispe/"
     }
   },
   "skills": [
     "JavaScript",
-    "TypeScript",
+    "Laravel",
+    "Codeigniter",
+    "Python",
     "React",
-    "Next.js",
-    "Node.js",
-    "Express",
     "MongoDB",
-    "PostgreSQL",
+    "MySQL",
     "Git",
     "Docker",
-    "AWS",
     "Tailwind CSS",
     "HTML5",
     "CSS3"

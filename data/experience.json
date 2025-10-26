@@ -2,41 +2,53 @@
   "experience": [
     {
       "id": 1,
-      "position": "Desarrollador Frontend Senior",
-      "company": "TechCorp Solutions",
+      "position": "Full Stack Developer Mandü",
+      "company": "Visma Latam",
       "startDate": "2022",
-      "endDate": "Presente",
+      "endDate": "2023",
       "responsibilities": [
-        "Desarrollo de aplicaciones web con React y Next.js",
-        "Implementación de interfaces de usuario responsivas",
-        "Colaboración con equipos de diseño y backend",
-        "Optimización de rendimiento y SEO"
+        "Desarrollo de aplicaciones web con React y Laravel",
+        "Optimización de Database querys en el sistema Clima Laboral",
+        "Colaboración con el equipo de UX/UI para diseño de Interfaces",
+        "Implementación de generación de archivos de reportes excel y envío de correos"
       ]
     },
     {
       "id": 2,
-      "position": "Desarrollador Full Stack",
-      "company": "StartupXYZ",
+      "position": "Full Stack Developer",
+      "company": "Mandü",
       "startDate": "2021",
       "endDate": "2022",
       "responsibilities": [
-        "Desarrollo de API REST con Node.js y Express",
-        "Gestión de bases de datos MongoDB y PostgreSQL",
-        "Implementación de autenticación y autorización",
-        "Despliegue en AWS y configuración de CI/CD"
+        "Desarrollo de API REST Laravel",
+        "Gestión de base de datos MySQL",
+        "Implementación de autenticación y autorización con servicios Google y Outlook",
+        "Desarrollo de Interfaces de usuario en React"
       ]
     },
     {
       "id": 3,
-      "position": "Desarrollador Junior",
-      "company": "WebAgency Pro",
-      "startDate": "2020",
+      "position": "Desarrollador de software",
+      "company": "USMP Virtual",
+      "startDate": "2017",
       "endDate": "2021",
       "responsibilities": [
-        "Desarrollo de sitios web corporativos",
+        "Desarrollo del sistema web de gestión de aulas virtuales",
         "Maquetación HTML/CSS responsive",
-        "Integración de CMS y formularios",
-        "Mantenimiento y actualización de sitios existentes"
+        "Integración con plataformas e-learing Moodle y Canvas",
+        "Mantenimiento de proceso de pagos VisaNet"
+      ]
+    },
+    {
+      "id": 4,
+      "position": "Practicante",
+      "company": "USMP Virtual",
+      "startDate": "2016",
+      "endDate": "2017",
+      "responsibilities": [
+        "Mantinimiento del sistema web de gestión de aulas virtuales",
+        "Maquetación HTML/CSS responsive",
+        "Implementación de exportación e importación de archivos CSV, Excel y Word"
       ]
     }
   ]
