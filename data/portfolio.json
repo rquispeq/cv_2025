@@ -48,7 +48,7 @@
       "id": 6,
       "title": "10 Projects JS",
       "description": "Colección de 10 mini proyectos de páginas web realizados con Javascript puro o React",
-      "image": "/10Projects_JS.png",
+      "image": "/10Projects_js.png",
       "technologies": ["React", "Javascript"],
       "githubUrl": "https://github.com/rquispeq/10projectsjs",
       "liveUrl": "https://portfolio-10projects.vercel.app/"
