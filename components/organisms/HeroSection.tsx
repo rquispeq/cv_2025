@@ -25,7 +25,7 @@ export function HeroSection({ personalInfo, loading }: HeroSectionProps) {
   if (!personalInfo) return null
 
   return (
-    <section className="py-20 px-4 text-center bg-gradient-to-b from-muted/50 to-background">
+    <section className="pt-20 px-4 text-center bg-gradient-to-b from-muted/50 to-background">
       <div className="container max-w-4xl mx-auto">
         <div className="mb-8">
           <Image

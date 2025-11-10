@@ -1,25 +1,63 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
-import { Github, ExternalLink } from "lucide-react"
+import { Github, ExternalLink, Fullscreen, ZoomIn } from "lucide-react"
 import type { Project } from "@/types"
 import Image from "next/image"
 import Link from "next/link"
+import 'photoswipe/dist/photoswipe.css'
+import { Gallery, Item } from "react-photoswipe-gallery"
 
 interface ProjectCardProps {
   project: Project
 }
 
 export function ProjectCard({ project }: ProjectCardProps) {
+  const defaultDatasource = [
+    {
+      sourceId: 1,
+      original: project.image
+    }
+  ]
   return (
     <Card className="group hover:shadow-lg transition-shadow">
       <div className="aspect-video relative overflow-hidden rounded-t-lg">
-        <Image
+        <Gallery dataSource={project.images || defaultDatasource}>
+          <Item sourceId={1}>
+            {({ref, open}) => (
+              <>
+              <Image
+                src={project.image || "/placeholder.svg"}
+                alt={project.title}
+                fill
+                className="object-cover group-hover:scale-105 transition-transform h-auto m-auto w-full absolute"
+                
+              />
+              {/* Button in desktop */}
+              <button
+                  className="transition-all duration-500 hidden md:flex justify-center items-center opacity-0 hover:opacity-100 absolute inset-0 w-full h-full hover:bg-gray-900 hover:bg-opacity-40 text-white"
+                  ref={ref}
+                  onClick={open}
+                  aria-label="Abrir imagen"
+                >
+                  <Fullscreen />
+                </button>
+
+              {/* Button in mobile */}
+              <button className=" md:hidden block absolute right-0 bottom-0 bg-gray-900 text-sm bg-opacity-80 p-1 rounded-xl m-1 text-white border border-gray-100" ref={ref} onClick={open}>
+                <Fullscreen />
+              </button>
+              </>
+            )}
+          </Item>
+        </Gallery>
+        {/* <Image
           src={project.image || "/placeholder.svg"}
           alt={project.title}
           fill
           className="object-cover group-hover:scale-105 transition-transform h-auto m-auto w-full absolute"
-        />
+        /> */}
+        
       </div>
       <CardHeader>
         <CardTitle className="flex items-center justify-between">

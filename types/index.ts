@@ -51,6 +51,14 @@ export interface Project {
   technologies: string[]
   githubUrl: string
   liveUrl: string
+  images: Images[]
+}
+
+export interface Images {
+  sourceId: number
+  original: string
+  width: number
+  height: number
 }
 
 export interface PortfolioData {

@@ -5,33 +5,124 @@
       "title": "E-commerce React y Laravel",
       "description": "Plataforma de comercio electrónico completa con carrito de compras, pagos y panel de administración.",
       "image": "/ecommerce_react_laravel.png",
+      "images": [
+        {
+          "sourceId": 1,
+          "original":"ecommerce_react_laravel/1.png",
+          "width": 1879,
+          "height": 1026
+        },
+        {
+          "sourceId": 2,
+          "original":"ecommerce_react_laravel/2.png",
+          "width": 1812,
+          "height": 862
+        },
+        {
+          "sourceId": 3,
+          "original":"ecommerce_react_laravel/3.png",
+          "width": 1860,
+          "height": 889
+        },
+        {
+          "sourceId": 4,
+          "original":"ecommerce_react_laravel/4.png",
+          "width": 1731,
+          "height": 886
+        },
+        {
+          "sourceId": 5,
+          "original":"ecommerce_react_laravel/5.png",
+          "width": 1855,
+          "height": 879
+        },
+        {
+          "sourceId": 6,
+          "original":"ecommerce_react_laravel/6.png",
+          "width": 1874,
+          "height": 882
+        }
+      ],
       "technologies": ["React", "Laravel", "Javascript", "PHP", "MySQL"],
-      "githubUrl": "https://github.com",
-      "liveUrl": "https://ejemplo.com"
+      "githubUrl": "https://github.com/rquispeq?tab=repositories&q=ecommerce-lrd&type=&language=&sort="
+     
     },
     {
       "id": 2,
       "title": "E-commerce Java Spring",
       "description": "Plataforma de comercio electrónico con lista de productos, generación de ordenes de compra y panel de administración",
-      "image": "/ecommerce_react_spring.png",
+      "image": "ecommerce_java_react/1.png",
+      "images": [
+        {
+          "sourceId": 1,
+          "original":"ecommerce_java_react/1.png",
+          "width": 1397,
+          "height": 907
+        },
+        {
+          "sourceId": 2,
+          "original":"ecommerce_java_react/2.png",
+          "width": 1344,
+          "height": 871
+        },
+        {
+          "sourceId": 3,
+          "original":"ecommerce_java_react/3.png",
+          "width": 1346,
+          "height": 646
+        }
+      ],
       "technologies": ["Java", "MySQL"],
-      "githubUrl": "https://github.com",
-      "liveUrl": "https://ejemplo.com"
+      "githubUrl": "https://github.com"
     },
     {
       "id": 3,
       "title": "Youtube Downloader",
       "description": "Aplicación de escritorio para descargar videos y música de Youtube",
       "image": "/youtube_downloader.png",
+      "images": [
+       {
+          "sourceId": 1,
+          "original":"yt_downloader/1.png",
+          "width": 1387,
+          "height": 613
+        },
+        {
+          "sourceId": 2,
+          "original":"yt_downloader/2.png",
+          "width": 1389,
+          "height": 613
+        }
+      ],
       "technologies": ["Python", "PyQt5"],
-      "githubUrl": "https://github.com"
+      "githubUrl": "https://github.com/rquispeq/yt_downloader"
     },
     {
       "id": 4,
       "title": "E-commerce product page",
       "description": "Página web de un producto con React y diseño con TailwindCSS",
-      "image": "/ecommerce_product_page.png",
-      "technologies": ["React", "Javascript", "TailwindCSS", "axios"],
+      "image": "/ecommerce_product_page/1.png",
+      "images": [
+        {
+          "sourceId": 1,
+          "original":"ecommerce_product_page/1.png",
+          "width": 933,
+          "height": 454
+        },
+        {
+          "sourceId": 1,
+          "original":"ecommerce_product_page/2.png",
+          "width": 1872,
+          "height": 897
+        },
+        {
+          "sourceId": 1,
+          "original":"ecommerce_product_page/3.png",
+          "width": 1878,
+          "height": 902
+        }
+      ],
+      "technologies": ["React", "Javascript", "TailwindCSS", "Axios"],
       "githubUrl": "https://github.com/rquispeq/e-commerce_product_page",
       "liveUrl": "https://e-commerce-product-page-five-pi.vercel.app/"
     },
@@ -39,7 +130,33 @@
       "id": 5,
       "title": "Product list with cart",
       "description": "Aplicación móvil para seguimiento de ejercicios con estadísticas y planes de entrenamiento personalizados.",
-      "image": "/ecommerce_with_cart.png",
+      "image": "/product_list_with_cart/1.png",
+      "images": [
+        {
+          "sourceId": 1,
+          "original":"product_list_with_cart/1.png",
+          "width": 1838,
+          "height": 885
+        },
+        {
+          "sourceId": 2,
+          "original":"product_list_with_cart/2.png",
+          "width": 1853,
+          "height": 899
+        },
+        {
+          "sourceId": 3,
+          "original":"product_list_with_cart/3.png",
+          "width": 376,
+          "height": 823
+        },
+        {
+          "sourceId": 4,
+          "original":"product_list_with_cart/4.png",
+          "width": 358,
+          "height": 818
+        }
+      ],
       "technologies": ["Javascript", "HTML", "CSS"],
       "githubUrl": "https://github.com/rquispeq/basics_pages/tree/main/product-list-with-cart",
       "liveUrl": "https://product-list-with-cart-flame.vercel.app/"
@@ -49,6 +166,62 @@
       "title": "10 Projects JS",
       "description": "Colección de 10 mini proyectos de páginas web realizados con Javascript puro o React",
       "image": "/10projects_JS.png",
+      "images": [
+        {
+          "sourceId": 1,
+          "original": "/10projectjs/1.png",
+          "width": 1365,
+          "height": 735
+        },
+        {
+          "sourceId": 2,
+          "original": "/10projectjs/2.png",
+          "width": 361,
+          "height": 813
+        },
+        {
+          "sourceId": 3,
+          "original": "/10projectjs/3.png",
+          "width": 1877,
+          "height": 904
+        },
+        {
+          "sourceId": 4,
+          "original": "/10projectjs/4.png",
+          "width": 367,
+          "height": 795
+        },
+        {
+          "sourceId": 5,
+          "original": "/10projectjs/5.png",
+          "width": 375,
+          "height": 804
+        },
+        {
+          "sourceId": 6,
+          "original": "/10projectjs/6.png",
+          "width": 1331,
+          "height": 720
+        },
+        {
+          "sourceId": 7,
+          "original": "/10projectjs/7.png",
+          "width": 561,
+          "height": 790
+        },
+        {
+          "sourceId": 8,
+          "original": "/10projectjs/8.png",
+          "width": 1495,
+          "height": 848
+        },
+        {
+          "sourceId": 9,
+          "original": "/10projectjs/9.png",
+          "width": 1887,
+          "height": 630
+        }
+      ],
       "technologies": ["React", "Javascript"],
       "githubUrl": "https://github.com/rquispeq/10projectsjs",
       "liveUrl": "https://portfolio-10projects.vercel.app/"
@@ -58,6 +231,14 @@
       "title": "Clon Instagram Desktop",
       "description": "Página web de Instagram creado con HTML, JS y CSS en modo escritorio",
       "image": "/clon_instagram.png",
+      "images": [
+        {
+          "sourceId": 1,
+          "original": "/clon_instagram.png",
+          "width": 800,
+          "height": 399
+        }
+      ],
       "technologies": ["Javascript","HTML", "CSS"],
       "githubUrl": "https://github.com/rquispeq/clon_instagram",
       "liveUrl": "https://rquispeq.github.io/clon_instagram/"
@@ -67,6 +248,14 @@
       "title": "Clon Youtube Desktop",
       "description": "Página web de Youtube creado con HTML, JS y CSS en modo escritorio",
       "image": "/clon_youtube.png",
+      "images": [
+        {
+          "sourceId": 1,
+          "original": "/clon_youtube.png",
+          "width": 800,
+          "height": 619
+        }
+      ],
       "technologies": ["Javascript","HTML", "CSS"],
       "githubUrl": "https://github.com/rquispeq/clon_youtube",
       "liveUrl": "https://rquispeq.github.io/clon_youtube/"
