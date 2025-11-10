@@ -5,22 +5,26 @@
     "photo": "/professional-developer-portrait.jpg",
     "email": "ronymquispe@gmail.com",
     "location": "Lima, Perú",
-    "description": "Desarrollador web con 6 años de experiencia en el desarrollo de aplicaciones web modernas. Especializado en Laravel, React y MySQL. Enfocado en crear soluciones innovadoras, eficientes y trabajar en equipo para entregar productos de alta calidad.",
+    "description": "Desarrollador web con 7 años de experiencia en el desarrollo de aplicaciones web modernas. Especializado en Laravel, React y MySQL. Enfocado en crear soluciones innovadoras, eficientes y trabajar en equipo para entregar productos de alta calidad.",
     "socialLinks": {
       "github": "https://github.com/rquispeq",
       "linkedin": "https://www.linkedin.com/in/rony-martin-quispe-quispe/"
     }
   },
   "skills": [
-    "JavaScript",
+    "PHP",
     "Laravel",
+    "JavaScript",
+    "React",
     "Codeigniter",
     "Python",
-    "React",
-    "MongoDB",
+    "Django",
     "MySQL",
+    "PostgreSQL",
+    "SQLite3",
     "Git",
     "Docker",
+    "Bootstrap (3,4,5)",
     "Tailwind CSS",
     "HTML5",
     "CSS3"

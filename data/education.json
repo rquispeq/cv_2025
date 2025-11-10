@@ -1,6 +1,13 @@
 {
   "education": [
     {
+      "id": 6,
+      "title": "Desarrollo web con Django",
+      "institution": "EDteam",
+      "startDate": "2025",
+      "description": "Aplicaciones seguras y escalables en poco tiempo con Django, el framework de Python que usa Spotify."
+    },
+    {
       "id": 5,
       "title": "Desarrollo Profesional de Temas y Plugins de WordPress",
       "institution": "Udemy",
@@ -12,7 +19,7 @@
       "title": "Introducción a la arquitectura de microservicios",
       "institution": "EDteam",
       "startDate": "2024",
-      "description": "Curso de introducción a microservicioes, arquitecturas monolíticas, reglas de microservicios, estrartegias de diseño, patrones de microservicios."
+      "description": "Curso de introducción a microservicios, arquitecturas monolíticas, reglas de microservicios, estrategias de diseño, patrones de microservicios."
     },
     {
       "id": 5,
@@ -34,6 +41,13 @@
       "institution": "EDteam",
       "startDate": "2021",
       "description": "Curso especializado en React, hooks avanzados y patrones de diseño."
+    },
+    {
+      "id": 3,
+      "title": "Python desde cero",
+      "institution": "EDteam",
+      "startDate": "2020",
+      "description": "Curso de desarrollo con Python, sintaxis base y gestor de contraseñas en terminal."
     },
     {
       "id": 5,
